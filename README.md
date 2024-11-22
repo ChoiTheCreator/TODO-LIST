@@ -87,15 +87,14 @@ npm start
 
 ### 로그인화면
 
-![스크린샷 2024-11-22 오후 6.43.12.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/acd64554-a405-4562-aa0d-b3acf54f8810/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.43.12.png)
+<img width="831" alt="스크린샷 2024-11-22 오후 6 45 59" src="https://github.com/user-attachments/assets/30f082f2-12fa-4018-bcc7-18b25f208141">
 
 ### 회원가입 모달
 
-![스크린샷 2024-11-22 오후 6.43.29.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/7d3fcfbd-a93d-4382-9925-a8a4bab403bd/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.43.29.png)
+<img width="824" alt="스크린샷 2024-11-22 오후 6 46 05" src="https://github.com/user-attachments/assets/23fb4126-763c-47b6-a779-a84d13d516ff">
 
 ### TODO_List 화면 진입
-
-![스크린샷 2024-11-22 오후 6.44.19.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/d5d60fd4-671e-4460-ab81-95a3cb1d08de/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.44.19.png)
+<img width="799" alt="스크린샷 2024-11-22 오후 6 46 15" src="https://github.com/user-attachments/assets/bb4d1ea9-ad9e-43af-86de-fcb68fb8e667">
 
 **📜 라이선스**
 
